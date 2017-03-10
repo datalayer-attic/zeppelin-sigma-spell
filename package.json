@@ -1,7 +1,7 @@
 {
   "name": "zeppelin-sigma-spell",
   "description" : "Sigma.js Network Visualization",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index",
   "author": "",
   "license": "Apache-2.0",
