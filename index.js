@@ -21,8 +21,6 @@ import {
 } from 'zeppelin-spell';
 
 import { sigma } from 'sigma'
-import * as d3 from 'd3'
-import {event as currentEvent} from 'd3'
 
 export default class SigmaSpell extends SpellBase {
   constructor() {
